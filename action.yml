@@ -1,4 +1,4 @@
-name: 'SonarQube Shellcheck'
+name: 'SonarQube with shellcheck'
 description: 'Scan your shell (bash scripts), python, groovy, etc. code with Sonar Scanner to detect bugs, vulnerabilities and code smells.'
 author: 'Sunil Agarwal'
 branding:
